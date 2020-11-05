@@ -1,0 +1,53 @@
+C:\Users\maksim\source\repos\StudInfo_Final\obj\Debug\StudInfo_Final.csprojAssemblyReference.cache
+C:\Users\maksim\source\repos\StudInfo_Final\obj\Debug\Edit_Student_Window.g.cs
+C:\Users\maksim\source\repos\StudInfo_Final\obj\Debug\MainWindow.g.cs
+C:\Users\maksim\source\repos\StudInfo_Final\obj\Debug\App.g.cs
+C:\Users\maksim\source\repos\StudInfo_Final\obj\Debug\StudInfo_Final_Content.g.cs
+C:\Users\maksim\source\repos\StudInfo_Final\obj\Debug\StudInfo_Final_MarkupCompile.cache
+C:\Users\maksim\source\repos\StudInfo_Final\obj\Debug\StudInfo_Final_MarkupCompile.lref
+C:\Users\maksim\source\repos\StudInfo_Final\bin\Debug\StudInfoDB.mdf
+C:\Users\maksim\source\repos\StudInfo_Final\bin\Debug\StudInfoDB_log.ldf
+C:\Users\maksim\source\repos\StudInfo_Final\bin\Debug\StudInfo_Final.exe.config
+C:\Users\maksim\source\repos\StudInfo_Final\bin\Debug\StudInfo_Final.exe
+C:\Users\maksim\source\repos\StudInfo_Final\bin\Debug\StudInfo_Final.pdb
+C:\Users\maksim\source\repos\StudInfo_Final\bin\Debug\EntityFramework.dll
+C:\Users\maksim\source\repos\StudInfo_Final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maksim\source\repos\StudInfo_Final\bin\Debug\EntityFramework.xml
+C:\Users\maksim\source\repos\StudInfo_Final\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maksim\source\repos\StudInfo_Final\obj\Debug\Edit_Student_Window.baml
+C:\Users\maksim\source\repos\StudInfo_Final\obj\Debug\MainWindow.baml
+C:\Users\maksim\source\repos\StudInfo_Final\obj\Debug\StudInfo_Final.g.resources
+C:\Users\maksim\source\repos\StudInfo_Final\obj\Debug\StudInfo_Final.Properties.Resources.resources
+C:\Users\maksim\source\repos\StudInfo_Final\obj\Debug\StudInfo_Final.csproj.GenerateResource.cache
+C:\Users\maksim\source\repos\StudInfo_Final\obj\Debug\StudInfo_Final.csproj.CoreCompileInputs.cache
+C:\Users\maksim\source\repos\StudInfo_Final\obj\Debug\StudInfo_Final.csproj.CopyComplete
+C:\Users\maksim\source\repos\StudInfo_Final\obj\Debug\StudInfo_Final.exe
+C:\Users\maksim\source\repos\StudInfo_Final\obj\Debug\StudInfo_Final.pdb
+C:\Users\maksim\source\repos\StudInfo_Final\obj\Debug\Diary.g.cs
+C:\Users\maksim\source\repos\StudInfo_Final\obj\Debug\Diary.baml
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\bin\Debug\StudInfoDB.mdf
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\bin\Debug\StudInfoDB_log.ldf
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\bin\Debug\StudInfo_Final.exe.config
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\bin\Debug\StudInfo_Final.exe
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\bin\Debug\StudInfo_Final.pdb
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\bin\Debug\EntityFramework.dll
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\bin\Debug\EntityFramework.SqlServer.dll
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\bin\Debug\EntityFramework.xml
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\bin\Debug\EntityFramework.SqlServer.xml
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\obj\Debug\StudInfo_Final.csprojAssemblyReference.cache
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\obj\Debug\Diary.g.cs
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\obj\Debug\Edit_Student_Window.g.cs
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\obj\Debug\MainWindow.g.cs
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\obj\Debug\App.g.cs
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\obj\Debug\StudInfo_Final_Content.g.cs
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\obj\Debug\StudInfo_Final_MarkupCompile.cache
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\obj\Debug\StudInfo_Final_MarkupCompile.lref
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\obj\Debug\Diary.baml
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\obj\Debug\Edit_Student_Window.baml
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\obj\Debug\MainWindow.baml
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\obj\Debug\StudInfo_Final.g.resources
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\obj\Debug\StudInfo_Final.Properties.Resources.resources
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\obj\Debug\StudInfo_Final.csproj.GenerateResource.cache
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\obj\Debug\StudInfo_Final.csproj.CopyComplete
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\obj\Debug\StudInfo_Final.exe
+\\192.168.0.131\обучающиеся\ИСиП 19-11-1\МДК.01.01 Разработка программных модулей\Журиков\StudInfo_Final\obj\Debug\StudInfo_Final.pdb

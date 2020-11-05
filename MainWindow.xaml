@@ -1,0 +1,16 @@
+﻿ <Window x:Class="StudInfo_Final.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudInfo_Final"
+        mc:Ignorable="d"
+        Title="StudInfo v2.0.5" Height="200" Width="200" ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="Add_Student" Content="Редактировать студентов" Margin="10,59,10,0" VerticalAlignment="Top" Height="25" Click="Open_Student_Window"/>
+        <Button x:Name="Open_Diary" Content="Открыть дневник" Margin="10,90,10,0" VerticalAlignment="Top" Height="25" Click="Open_Diary_Click"/>
+        <Button x:Name="About" Content="О программе" Margin="10,120,10,0" VerticalAlignment="Top" Height="25"/>
+        <Label x:Name="label" Content="StudInfo v2.0.5" Margin="10,18,10,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="20" HorizontalAlignment="Center"/>
+
+    </Grid>
+</Window>
